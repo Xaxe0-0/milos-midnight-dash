@@ -1,0 +1,6565 @@
+fileFormatVersion: 2
+guid: eef755884b7ea6d45abdec76658c0f7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 547935128055976865
+    second: midnight-sky-flyers_0
+  - first:
+      213: 1700386221734347564
+    second: midnight-sky-flyers_1
+  - first:
+      213: -6845659875804446011
+    second: midnight-sky-flyers_2
+  - first:
+      213: 79551989066961331
+    second: midnight-sky-flyers_3
+  - first:
+      213: 5344043994156989043
+    second: midnight-sky-flyers_4
+  - first:
+      213: -3852187491900838759
+    second: midnight-sky-flyers_5
+  - first:
+      213: -2499934270785316010
+    second: midnight-sky-flyers_6
+  - first:
+      213: -3646436286463933259
+    second: midnight-sky-flyers_7
+  - first:
+      213: -305548476939525637
+    second: midnight-sky-flyers_8
+  - first:
+      213: -1435796646206506204
+    second: midnight-sky-flyers_9
+  - first:
+      213: 6151077172111843754
+    second: midnight-sky-flyers_10
+  - first:
+      213: -7239855502695862521
+    second: midnight-sky-flyers_11
+  - first:
+      213: 6924558345268299358
+    second: midnight-sky-flyers_12
+  - first:
+      213: 8845263808653369848
+    second: midnight-sky-flyers_13
+  - first:
+      213: -5796658704091472810
+    second: midnight-sky-flyers_14
+  - first:
+      213: 1521282534426712844
+    second: midnight-sky-flyers_15
+  - first:
+      213: -3556802566462136578
+    second: midnight-sky-flyers_16
+  - first:
+      213: -7180768330300309120
+    second: midnight-sky-flyers_17
+  - first:
+      213: 4111809062368616432
+    second: midnight-sky-flyers_18
+  - first:
+      213: -4165885260341413640
+    second: midnight-sky-flyers_19
+  - first:
+      213: -3187524427736905944
+    second: midnight-sky-flyers_20
+  - first:
+      213: 138026029086464426
+    second: midnight-sky-flyers_21
+  - first:
+      213: -1516151726024838558
+    second: midnight-sky-flyers_22
+  - first:
+      213: -5611881287614312332
+    second: midnight-sky-flyers_23
+  - first:
+      213: -4364507628087186316
+    second: midnight-sky-flyers_24
+  - first:
+      213: -6302642783284890746
+    second: midnight-sky-flyers_25
+  - first:
+      213: 4593845742373393651
+    second: midnight-sky-flyers_26
+  - first:
+      213: 5493331780997915259
+    second: midnight-sky-flyers_27
+  - first:
+      213: 836219614874028722
+    second: midnight-sky-flyers_28
+  - first:
+      213: -7886427853797083888
+    second: midnight-sky-flyers_29
+  - first:
+      213: 7808703932070749677
+    second: midnight-sky-flyers_30
+  - first:
+      213: -1714359376318335906
+    second: midnight-sky-flyers_31
+  - first:
+      213: -2793211594098024098
+    second: midnight-sky-flyers_32
+  - first:
+      213: -6878507362981630373
+    second: midnight-sky-flyers_33
+  - first:
+      213: 7301521050445070447
+    second: midnight-sky-flyers_34
+  - first:
+      213: -6693898971423122567
+    second: midnight-sky-flyers_35
+  - first:
+      213: 6752017699809033006
+    second: midnight-sky-flyers_36
+  - first:
+      213: -6433120665987375228
+    second: midnight-sky-flyers_37
+  - first:
+      213: -1444230590338282080
+    second: midnight-sky-flyers_38
+  - first:
+      213: -4639738067699419650
+    second: midnight-sky-flyers_39
+  - first:
+      213: -7974289305176845549
+    second: midnight-sky-flyers_40
+  - first:
+      213: 5810586699716302579
+    second: midnight-sky-flyers_41
+  - first:
+      213: 8007534193451749211
+    second: midnight-sky-flyers_42
+  - first:
+      213: 3845602195696011642
+    second: midnight-sky-flyers_43
+  - first:
+      213: 7615586818720874131
+    second: midnight-sky-flyers_44
+  - first:
+      213: 8279158660044392900
+    second: midnight-sky-flyers_45
+  - first:
+      213: 8885445377457388898
+    second: midnight-sky-flyers_46
+  - first:
+      213: 9192006381945847360
+    second: midnight-sky-flyers_47
+  - first:
+      213: 6081152410315597102
+    second: midnight-sky-flyers_48
+  - first:
+      213: 5979735807096772833
+    second: midnight-sky-flyers_49
+  - first:
+      213: -9151518756695861624
+    second: midnight-sky-flyers_50
+  - first:
+      213: -3155253852743857306
+    second: midnight-sky-flyers_51
+  - first:
+      213: -2644990922027028506
+    second: midnight-sky-flyers_52
+  - first:
+      213: -206762222656084076
+    second: midnight-sky-flyers_53
+  - first:
+      213: 2345574168462339715
+    second: midnight-sky-flyers_54
+  - first:
+      213: 5881898579708832432
+    second: midnight-sky-flyers_55
+  - first:
+      213: 1985787771519554865
+    second: midnight-sky-flyers_56
+  - first:
+      213: -6135187175781888251
+    second: midnight-sky-flyers_57
+  - first:
+      213: 5439152937634665583
+    second: midnight-sky-flyers_58
+  - first:
+      213: -4788972392612513675
+    second: midnight-sky-flyers_59
+  - first:
+      213: 5016220387297592168
+    second: midnight-sky-flyers_60
+  - first:
+      213: 3502458939903610768
+    second: midnight-sky-flyers_61
+  - first:
+      213: -2205355750119760288
+    second: midnight-sky-flyers_62
+  - first:
+      213: -7012362925008477631
+    second: midnight-sky-flyers_63
+  - first:
+      213: 664340028825033119
+    second: midnight-sky-flyers_64
+  - first:
+      213: 6049476172857512038
+    second: midnight-sky-flyers_65
+  - first:
+      213: -2911158641599359424
+    second: midnight-sky-flyers_66
+  - first:
+      213: -7024413792821545570
+    second: midnight-sky-flyers_67
+  - first:
+      213: 6617237481237921526
+    second: midnight-sky-flyers_68
+  - first:
+      213: 8719658797713965350
+    second: midnight-sky-flyers_69
+  - first:
+      213: 6566574018934723310
+    second: midnight-sky-flyers_70
+  - first:
+      213: -370109401986779846
+    second: midnight-sky-flyers_71
+  - first:
+      213: 908336236695299513
+    second: midnight-sky-flyers_72
+  - first:
+      213: -8470630665943947759
+    second: midnight-sky-flyers_73
+  - first:
+      213: -7770148318155469178
+    second: midnight-sky-flyers_74
+  - first:
+      213: 461865928550618114
+    second: midnight-sky-flyers_75
+  - first:
+      213: -4235774147816598976
+    second: midnight-sky-flyers_76
+  - first:
+      213: 2731253791988904883
+    second: midnight-sky-flyers_77
+  - first:
+      213: 9034962309113461446
+    second: midnight-sky-flyers_78
+  - first:
+      213: 2574579818512710980
+    second: midnight-sky-flyers_79
+  - first:
+      213: -1734784464022176698
+    second: midnight-sky-flyers_80
+  - first:
+      213: 8169796306498466248
+    second: midnight-sky-flyers_81
+  - first:
+      213: -1392968253278737625
+    second: midnight-sky-flyers_82
+  - first:
+      213: -297266088704587843
+    second: midnight-sky-flyers_83
+  - first:
+      213: -1371818045387779689
+    second: midnight-sky-flyers_84
+  - first:
+      213: 3062253511838381475
+    second: midnight-sky-flyers_85
+  - first:
+      213: 3574865253311475319
+    second: midnight-sky-flyers_86
+  - first:
+      213: 3623799155013511845
+    second: midnight-sky-flyers_87
+  - first:
+      213: -4984538660580638288
+    second: midnight-sky-flyers_88
+  - first:
+      213: -3308985955324268179
+    second: midnight-sky-flyers_89
+  - first:
+      213: -852330792830902538
+    second: midnight-sky-flyers_90
+  - first:
+      213: -8395238320163501554
+    second: midnight-sky-flyers_91
+  - first:
+      213: 1569281082039737605
+    second: midnight-sky-flyers_92
+  - first:
+      213: 7465488513827422723
+    second: midnight-sky-flyers_93
+  - first:
+      213: 8541701897740442589
+    second: midnight-sky-flyers_94
+  - first:
+      213: 6812367302476521460
+    second: midnight-sky-flyers_95
+  - first:
+      213: 5838880723909413497
+    second: midnight-sky-flyers_96
+  - first:
+      213: 175666713050386935
+    second: midnight-sky-flyers_97
+  - first:
+      213: -5312543507649606783
+    second: midnight-sky-flyers_98
+  - first:
+      213: 1312291985440140135
+    second: midnight-sky-flyers_99
+  - first:
+      213: -520017763176388086
+    second: midnight-sky-flyers_100
+  - first:
+      213: -6295031013344658381
+    second: midnight-sky-flyers_101
+  - first:
+      213: 2222166957753903040
+    second: midnight-sky-flyers_102
+  - first:
+      213: 2847426570411030929
+    second: midnight-sky-flyers_103
+  - first:
+      213: 5647116603476056452
+    second: midnight-sky-flyers_104
+  - first:
+      213: 6228137785016964048
+    second: midnight-sky-flyers_105
+  - first:
+      213: 1233566846336716032
+    second: midnight-sky-flyers_106
+  - first:
+      213: -5075380470002915897
+    second: midnight-sky-flyers_107
+  - first:
+      213: -2214571605747188497
+    second: midnight-sky-flyers_108
+  - first:
+      213: -3092380832374304456
+    second: midnight-sky-flyers_109
+  - first:
+      213: -8169937649982611731
+    second: midnight-sky-flyers_110
+  - first:
+      213: 588270771383897757
+    second: midnight-sky-flyers_111
+  - first:
+      213: 2446110920497687369
+    second: midnight-sky-flyers_112
+  - first:
+      213: -5551407671910043266
+    second: midnight-sky-flyers_113
+  - first:
+      213: 2235945937564783208
+    second: midnight-sky-flyers_114
+  - first:
+      213: -5450055782500504611
+    second: midnight-sky-flyers_115
+  - first:
+      213: -2904735991577699713
+    second: midnight-sky-flyers_116
+  - first:
+      213: 5737859034738603396
+    second: midnight-sky-flyers_117
+  - first:
+      213: 256039479341628850
+    second: midnight-sky-flyers_118
+  - first:
+      213: 1891625459427347500
+    second: midnight-sky-flyers_119
+  - first:
+      213: 7114955704905506380
+    second: midnight-sky-flyers_120
+  - first:
+      213: 880274632167476146
+    second: midnight-sky-flyers_121
+  - first:
+      213: 6701346160972265868
+    second: midnight-sky-flyers_122
+  - first:
+      213: -1247491162835414919
+    second: midnight-sky-flyers_123
+  - first:
+      213: 5369327820331475956
+    second: midnight-sky-flyers_124
+  - first:
+      213: -2637256929167834143
+    second: midnight-sky-flyers_125
+  - first:
+      213: 9204128261522661846
+    second: midnight-sky-flyers_126
+  - first:
+      213: 1909788696364331821
+    second: midnight-sky-flyers_127
+  - first:
+      213: 5422989893459538646
+    second: midnight-sky-flyers_128
+  - first:
+      213: 2775496382920058793
+    second: midnight-sky-flyers_129
+  - first:
+      213: 5898747516907357745
+    second: midnight-sky-flyers_130
+  - first:
+      213: -4511824301608464694
+    second: midnight-sky-flyers_131
+  - first:
+      213: 5331061114756057602
+    second: midnight-sky-flyers_132
+  - first:
+      213: -5305676056688513958
+    second: midnight-sky-flyers_133
+  - first:
+      213: 3053131335102751360
+    second: midnight-sky-flyers_134
+  - first:
+      213: -8354753481978248176
+    second: midnight-sky-flyers_135
+  - first:
+      213: 27879625323470484
+    second: midnight-sky-flyers_136
+  - first:
+      213: 6022882260129828816
+    second: midnight-sky-flyers_137
+  - first:
+      213: 1927443438567333995
+    second: midnight-sky-flyers_138
+  - first:
+      213: -6831386842764290903
+    second: midnight-sky-flyers_139
+  - first:
+      213: -2489556959402745919
+    second: midnight-sky-flyers_140
+  - first:
+      213: 3174576759110239399
+    second: midnight-sky-flyers_141
+  - first:
+      213: 3967687111950191023
+    second: midnight-sky-flyers_142
+  - first:
+      213: 2763217254294887459
+    second: midnight-sky-flyers_143
+  - first:
+      213: -6314894804780820743
+    second: midnight-sky-flyers_144
+  - first:
+      213: 8864028952276947636
+    second: midnight-sky-flyers_145
+  - first:
+      213: 4540812982193421873
+    second: midnight-sky-flyers_146
+  - first:
+      213: 9020011028028043627
+    second: midnight-sky-flyers_147
+  - first:
+      213: -6651859347242007895
+    second: midnight-sky-flyers_148
+  - first:
+      213: 1207045831562718797
+    second: midnight-sky-flyers_149
+  - first:
+      213: -7528525794430829479
+    second: midnight-sky-flyers_150
+  - first:
+      213: 1789108210514307863
+    second: midnight-sky-flyers_151
+  - first:
+      213: 3165993784971928135
+    second: midnight-sky-flyers_152
+  - first:
+      213: 4293007189978675118
+    second: midnight-sky-flyers_153
+  - first:
+      213: 4505469339873419461
+    second: midnight-sky-flyers_154
+  - first:
+      213: -8465637917571485442
+    second: midnight-sky-flyers_155
+  - first:
+      213: 7498754472667470546
+    second: midnight-sky-flyers_156
+  - first:
+      213: 2962087929404675980
+    second: midnight-sky-flyers_157
+  - first:
+      213: -8631633746926247394
+    second: midnight-sky-flyers_158
+  - first:
+      213: 9029144726165229367
+    second: midnight-sky-flyers_159
+  - first:
+      213: -4516184135267394640
+    second: midnight-sky-flyers_160
+  - first:
+      213: 1525306057663094149
+    second: midnight-sky-flyers_161
+  - first:
+      213: 7861709198710881663
+    second: midnight-sky-flyers_162
+  - first:
+      213: 4267141848207746849
+    second: midnight-sky-flyers_163
+  - first:
+      213: 1287668605377141087
+    second: midnight-sky-flyers_164
+  - first:
+      213: 5245072785456626590
+    second: midnight-sky-flyers_165
+  - first:
+      213: -4723175360508222008
+    second: midnight-sky-flyers_166
+  - first:
+      213: -8580736952271088650
+    second: midnight-sky-flyers_167
+  - first:
+      213: 8945299648977573318
+    second: midnight-sky-flyers_168
+  - first:
+      213: 1709239322758825672
+    second: midnight-sky-flyers_169
+  - first:
+      213: 4442193736653525949
+    second: midnight-sky-flyers_170
+  - first:
+      213: 8727171415809595968
+    second: midnight-sky-flyers_171
+  - first:
+      213: 2082524384137563652
+    second: midnight-sky-flyers_172
+  - first:
+      213: 7575225104364185902
+    second: midnight-sky-flyers_173
+  - first:
+      213: -8940238187400340453
+    second: midnight-sky-flyers_174
+  - first:
+      213: 8239612262435068944
+    second: midnight-sky-flyers_175
+  - first:
+      213: 2453700619531741837
+    second: midnight-sky-flyers_176
+  - first:
+      213: -6624445565105089361
+    second: midnight-sky-flyers_177
+  - first:
+      213: 910533415648742400
+    second: midnight-sky-flyers_178
+  - first:
+      213: -4464544924845189107
+    second: midnight-sky-flyers_179
+  - first:
+      213: -4151455313235927136
+    second: midnight-sky-flyers_180
+  - first:
+      213: 5562415913238027622
+    second: midnight-sky-flyers_181
+  - first:
+      213: -7246527360631448939
+    second: midnight-sky-flyers_182
+  - first:
+      213: 8301461018147608134
+    second: midnight-sky-flyers_183
+  - first:
+      213: 5035162829573932197
+    second: midnight-sky-flyers_184
+  - first:
+      213: -8480574039784387181
+    second: midnight-sky-flyers_185
+  - first:
+      213: -856429647257984475
+    second: midnight-sky-flyers_186
+  - first:
+      213: -1269123791478639408
+    second: midnight-sky-flyers_187
+  - first:
+      213: 6788586373112659508
+    second: midnight-sky-flyers_188
+  - first:
+      213: 2388355658127358057
+    second: midnight-sky-flyers_189
+  - first:
+      213: -7343339554297907667
+    second: midnight-sky-flyers_190
+  - first:
+      213: -5406338841875581862
+    second: midnight-sky-flyers_191
+  - first:
+      213: -4933702763553266246
+    second: midnight-sky-flyers_192
+  - first:
+      213: -6896902716070901747
+    second: midnight-sky-flyers_193
+  - first:
+      213: 1936675825820474798
+    second: midnight-sky-flyers_194
+  - first:
+      213: 6280707070009030107
+    second: midnight-sky-flyers_195
+  - first:
+      213: 4842922949622831781
+    second: midnight-sky-flyers_196
+  - first:
+      213: -2014361780765214214
+    second: midnight-sky-flyers_197
+  - first:
+      213: 4556196725902524986
+    second: midnight-sky-flyers_198
+  - first:
+      213: -5979822181361740020
+    second: midnight-sky-flyers_199
+  - first:
+      213: -709843972472828030
+    second: midnight-sky-flyers_200
+  - first:
+      213: 4681682127462966575
+    second: midnight-sky-flyers_201
+  - first:
+      213: -5624946667321101929
+    second: midnight-sky-flyers_202
+  - first:
+      213: 7173359626236027749
+    second: midnight-sky-flyers_203
+  - first:
+      213: -255820502920866997
+    second: midnight-sky-flyers_204
+  - first:
+      213: 6670880277040275800
+    second: midnight-sky-flyers_205
+  - first:
+      213: -2646854983833793565
+    second: midnight-sky-flyers_206
+  - first:
+      213: 626477776628726318
+    second: midnight-sky-flyers_207
+  - first:
+      213: -810242739446285811
+    second: midnight-sky-flyers_208
+  - first:
+      213: 8064598931678230412
+    second: midnight-sky-flyers_209
+  - first:
+      213: 3680196809572056948
+    second: midnight-sky-flyers_210
+  - first:
+      213: -3856545046367901992
+    second: midnight-sky-flyers_211
+  - first:
+      213: 4038354954713876135
+    second: midnight-sky-flyers_212
+  - first:
+      213: 4289466934048270178
+    second: midnight-sky-flyers_213
+  - first:
+      213: 2973974203703360843
+    second: midnight-sky-flyers_214
+  - first:
+      213: -5790660544166027579
+    second: midnight-sky-flyers_215
+  - first:
+      213: 8158707244520596951
+    second: midnight-sky-flyers_216
+  - first:
+      213: -3275072354907990701
+    second: midnight-sky-flyers_217
+  - first:
+      213: -3225447375390488067
+    second: midnight-sky-flyers_218
+  - first:
+      213: 8616672456959644117
+    second: midnight-sky-flyers_219
+  - first:
+      213: 1199741963039922460
+    second: midnight-sky-flyers_220
+  - first:
+      213: 215402438490306163
+    second: midnight-sky-flyers_221
+  - first:
+      213: -5503337137138452436
+    second: midnight-sky-flyers_222
+  - first:
+      213: -3544008972293367691
+    second: midnight-sky-flyers_223
+  - first:
+      213: 6261307972673494875
+    second: midnight-sky-flyers_224
+  - first:
+      213: -5145301542865405653
+    second: midnight-sky-flyers_225
+  - first:
+      213: -1402717065769941718
+    second: midnight-sky-flyers_226
+  - first:
+      213: -4207772472259090036
+    second: midnight-sky-flyers_227
+  - first:
+      213: 2698613024519793117
+    second: midnight-sky-flyers_228
+  - first:
+      213: -2527615752471430090
+    second: midnight-sky-flyers_229
+  - first:
+      213: -5517295270466638747
+    second: midnight-sky-flyers_230
+  - first:
+      213: -1874181578490663572
+    second: midnight-sky-flyers_231
+  - first:
+      213: -1232032381710436759
+    second: midnight-sky-flyers_232
+  - first:
+      213: -7776843641126132358
+    second: midnight-sky-flyers_233
+  - first:
+      213: -945104297382464212
+    second: midnight-sky-flyers_234
+  - first:
+      213: 7022574136349370031
+    second: midnight-sky-flyers_235
+  - first:
+      213: -3233646255578900610
+    second: midnight-sky-flyers_236
+  - first:
+      213: 3840834051206734919
+    second: midnight-sky-flyers_237
+  - first:
+      213: -980434939245657137
+    second: midnight-sky-flyers_238
+  - first:
+      213: 673915164267832014
+    second: midnight-sky-flyers_239
+  - first:
+      213: 781301401079798413
+    second: midnight-sky-flyers_240
+  - first:
+      213: -5510886915702280766
+    second: midnight-sky-flyers_241
+  - first:
+      213: 1267945049677326679
+    second: midnight-sky-flyers_242
+  - first:
+      213: 1490163868011623577
+    second: midnight-sky-flyers_243
+  - first:
+      213: -6779863110608977225
+    second: midnight-sky-flyers_244
+  - first:
+      213: 2823601243412523129
+    second: midnight-sky-flyers_245
+  - first:
+      213: -1279083847719024727
+    second: midnight-sky-flyers_246
+  - first:
+      213: 2960675345865537647
+    second: midnight-sky-flyers_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: midnight-sky-flyers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1207
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a31cbb8818aa9700800000000000000
+      internalID: 547935128055976865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_1
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1076
+        width: 157
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23c177724cf89710800000000000000
+      internalID: 1700386221734347564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1249
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c20881ec945ff0a0800000000000000
+      internalID: -6845659875804446011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1197
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11381dc10aa1100800000000000000
+      internalID: 79551989066961331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1175
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a79cfd2bbd92a40800000000000000
+      internalID: 5344043994156989043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1205
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c2c09c2e74a8ac0800000000000000
+      internalID: -3852187491900838759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1197
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b1404a6037e4dd0800000000000000
+      internalID: -2499934270785316010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1173
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b409316481456dc0800000000000000
+      internalID: -3646436286463933259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_8
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1237
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1ab52774972cbf0800000000000000
+      internalID: -305548476939525637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_9
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1225
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bf925be86031ce0800000000000000
+      internalID: -1435796646206506204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 630
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1adb529140d5550800000000000000
+      internalID: 6151077172111843754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1179
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe7a857cdd68b90800000000000000
+      internalID: -7239855502695862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e560f2c8029f81060800000000000000
+      internalID: 6924558345268299358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 976
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1276bd190b0ca70800000000000000
+      internalID: 8845263808653369848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1158
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c9372ee912e8fa0800000000000000
+      internalID: -5796658704091472810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1124
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b928ba76eac1510800000000000000
+      internalID: 1521282534426712844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1162
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe93d919e2b3aec0800000000000000
+      internalID: -3556802566462136578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1157
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081431abf39c85c90800000000000000
+      internalID: -7180768330300309120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1189
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff96b29e84101930800000000000000
+      internalID: 4111809062368616432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1130
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f870527d6dcf26c0800000000000000
+      internalID: -4165885260341413640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1212
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278cd3db63a3c3d0800000000000000
+      internalID: -3187524427736905944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_21
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 947
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9d47131fd5ae100800000000000000
+      internalID: 138026029086464426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1110
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262b1b0c90c85fae0800000000000000
+      internalID: -1516151726024838558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1016
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4705612b3b79e12b0800000000000000
+      internalID: -5611881287614312332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_24
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 984
+        width: 133
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6168bf672e63c0800000000000000
+      internalID: -4364507628087186316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_25
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1102
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ff1c08c38888a0800000000000000
+      internalID: -6302642783284890746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 661
+        width: 590
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f45b1b0d5e90cf30800000000000000
+      internalID: 4593845742373393651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1124
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72aebf562c3c3c40800000000000000
+      internalID: 5493331780997915259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_28
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1146
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bac7ca2f49da9b00800000000000000
+      internalID: 836219614874028722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_29
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1054
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015bdaba6a7cd8290800000000000000
+      internalID: -7886427853797083888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_30
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1146
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5e54b9ad61e5c60800000000000000
+      internalID: 7808703932070749677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1112
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e547f25fa3f5538e0800000000000000
+      internalID: -1714359376318335906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1076
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e84faad48c39d0800000000000000
+      internalID: -2793211594098024098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_33
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1114
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e229c4ff1aa80a0800000000000000
+      internalID: -6878507362981630373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_34
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1142
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c0d3d5b6345560800000000000000
+      internalID: 7301521050445070447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_35
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1096
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bd8fde95e7a13a0800000000000000
+      internalID: -6693898971423122567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_36
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1090
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7442035cf3bd50800000000000000
+      internalID: 6752017699809033006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_37
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1151
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1992a6d6f8b6a0800000000000000
+      internalID: -6433120665987375228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_38
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1090
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad42211eef05fbe0800000000000000
+      internalID: -1444230590338282080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_39
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1148
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef53bef4fc65c9fb0800000000000000
+      internalID: -4639738067699419650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_40
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1084
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313dcb46022a55190800000000000000
+      internalID: -7974289305176845549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_41
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1147
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6133d41d953a050800000000000000
+      internalID: 5810586699716302579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_42
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1146
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4c775ce9702f60800000000000000
+      internalID: 8007534193451749211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_43
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1124
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a794ce572d25e5530800000000000000
+      internalID: 3845602195696011642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_44
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1221
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e310eccdfffa960800000000000000
+      internalID: 7615586818720874131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_45
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c98b0bbfea75e270800000000000000
+      internalID: 8279158660044392900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_46
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 923
+        width: 270
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dfb726e717f4b70800000000000000
+      internalID: 8885445377457388898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_47
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e71016a11909f70800000000000000
+      internalID: 9192006381945847360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_48
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 980
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e252fd9d5e7946450800000000000000
+      internalID: 6081152410315597102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_49
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1086
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8dfa8d80a4cf250800000000000000
+      internalID: 5979735807096772833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_50
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 978
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88691d77d264ff080800000000000000
+      internalID: -9151518756695861624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_51
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 964
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b050396594634d0800000000000000
+      internalID: -3155253852743857306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 937
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef227a25ca1b4bd0800000000000000
+      internalID: -2644990922027028506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_53
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 969
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4972d9d9ade612df0800000000000000
+      internalID: -206762222656084076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_54
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 963
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ea78167472d8020800000000000000
+      internalID: 2345574168462339715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_55
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 958
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba6b683893b0a150800000000000000
+      internalID: 5881898579708832432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_56
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 893
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135dcb0057fee8b10800000000000000
+      internalID: 1985787771519554865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_57
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 951
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f0dfce4cf6bdaa0800000000000000
+      internalID: -6135187175781888251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 920
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f649cb667c0cb7b40800000000000000
+      internalID: 5439152937634665583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 885
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578bd236bf62a8db0800000000000000
+      internalID: -4788972392612513675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 883
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86302fb7dd13d9540800000000000000
+      internalID: 5016220387297592168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 881
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f885959db3b9030800000000000000
+      internalID: 3502458939903610768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_62
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 851
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e1fb631a00561e0800000000000000
+      internalID: -2205355750119760288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_63
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 819
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14220c2a2151fae90800000000000000
+      internalID: -7012362925008477631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_64
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 809
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9950348cb5383900800000000000000
+      internalID: 664340028825033119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_65
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 787
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6609c58178e04f350800000000000000
+      internalID: 6049476172857512038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 786
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04659a2b3ac7997d0800000000000000
+      internalID: -2911158641599359424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_67
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 751
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9574835fd4448e90800000000000000
+      internalID: -7024413792821545570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_68
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 785
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe3697fd6625db50800000000000000
+      internalID: 6617237481237921526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_69
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 771
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621c9505a73720970800000000000000
+      internalID: 8719658797713965350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_70
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 775
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d9ed6748212b50800000000000000
+      internalID: 6566574018934723310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_71
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 728
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35bb86b57b1ddaf0800000000000000
+      internalID: -370109401986779846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_72
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 753
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5a6d4aefe0b9c00800000000000000
+      internalID: 908336236695299513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_73
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 757
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11661e4e946427a80800000000000000
+      internalID: -8470630665943947759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_74
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 746
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e8e3cc543ea2490800000000000000
+      internalID: -7770148318155469178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_75
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 706
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049d1d6d90e86600800000000000000
+      internalID: 461865928550618114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_76
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 755
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042db9acad18735c0800000000000000
+      internalID: -4235774147816598976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_77
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 738
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3ffee5adc57e520800000000000000
+      internalID: 2731253791988904883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_78
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 742
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca30c1d952a26d70800000000000000
+      internalID: 9034962309113461446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_79
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 724
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44df65844bebab320800000000000000
+      internalID: 2574579818512710980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_80
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 730
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c7714a8becce7e0800000000000000
+      internalID: -1734784464022176698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_81
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 736
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1b3209472f06170800000000000000
+      internalID: 8169796306498466248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_82
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 714
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72baceff0ce2bace0800000000000000
+      internalID: -1392968253278737625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_83
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 741
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db74efa3116efdbf0800000000000000
+      internalID: -297266088704587843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_84
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 740
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d03481c256fce0800000000000000
+      internalID: -1371818045387779689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 714
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5b151385f4f7a20800000000000000
+      internalID: 3062253511838381475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_86
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 724
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e6487e1097c9130800000000000000
+      internalID: 3574865253311475319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_87
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 710
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aae0fbb1225a4230800000000000000
+      internalID: 3623799155013511845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_88
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 706
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1c3e65f7c53dab0800000000000000
+      internalID: -4984538660580638288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_89
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 718
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61f32e2ece1412d0800000000000000
+      internalID: -3308985955324268179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_90
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 713
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fedf26e8a9eb24f0800000000000000
+      internalID: -852330792830902538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 700
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a48e94a3f1e7b80800000000000000
+      internalID: -8395238320163501554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 697
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d18b764d437c510800000000000000
+      internalID: 1569281082039737605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_93
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 692
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302417ddf3eba9760800000000000000
+      internalID: 7465488513827422723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_94
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 691
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb5910ce983a8670800000000000000
+      internalID: 8541701897740442589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_95
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 705
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff5997d7f36a8e50800000000000000
+      internalID: 6812367302476521460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_96
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 661
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a0f7a251fd70150800000000000000
+      internalID: 5838880723909413497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_97
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 690
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19a3ed1f7107200800000000000000
+      internalID: 175666713050386935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_98
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 674
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bccbca3dd0646b0800000000000000
+      internalID: -5312543507649606783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_99
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 650
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b60c1ab92363210800000000000000
+      internalID: 1312291985440140135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_100
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 660
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6afc799688c8f0800000000000000
+      internalID: -520017763176388086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_101
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 638
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c368755ae83a8a0800000000000000
+      internalID: -6295031013344658381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_102
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 634
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c728841319b6de10800000000000000
+      internalID: 2222166957753903040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_103
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 630
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199bb552167148720800000000000000
+      internalID: 2847426570411030929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_104
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 624
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489966391a69e5e40800000000000000
+      internalID: 5647116603476056452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_105
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 628
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3df10415ace6650800000000000000
+      internalID: 6228137785016964048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_106
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 642
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4992d2828e1110800000000000000
+      internalID: 1233566846336716032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_107
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 632
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c565816a50a099b0800000000000000
+      internalID: -5075380470002915897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 596
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb5cd9bd24441e0800000000000000
+      internalID: -2214571605747188497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_109
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 622
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8315a106408a515d0800000000000000
+      internalID: -3092380832374304456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_110
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 609
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee52b75efc8e9e80800000000000000
+      internalID: -8169937649982611731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_111
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 608
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e05185625f92800800000000000000
+      internalID: 588270771383897757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_112
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 609
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94be7711ce452f120800000000000000
+      internalID: 2446110920497687369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 607
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e717c60922075f2b0800000000000000
+      internalID: -5551407671910043266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_114
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 598
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862d681dbfca70f10800000000000000
+      internalID: 2235945937564783208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_115
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 609
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb6ef534238d54b0800000000000000
+      internalID: -5450055782500504611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_116
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 616
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a18bf610e40b7d0800000000000000
+      internalID: -2904735991577699713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_117
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 612
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4853cd04468f0af40800000000000000
+      internalID: 5737859034738603396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_118
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 604
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd32a6cc82ad8300800000000000000
+      internalID: 256039479341628850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_119
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 580
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c80454557604a10800000000000000
+      internalID: 1891625459427347500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_120
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 594
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e188754866db260800000000000000
+      internalID: 7114955704905506380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_121
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 592
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb41233d1d573c00800000000000000
+      internalID: 880274632167476146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_122
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 551
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89fda104d6fffc50800000000000000
+      internalID: 6701346160972265868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_123
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 598
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97091ca956500bee0800000000000000
+      internalID: -1247491162835414919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_124
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 598
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ea75643fa38a40800000000000000
+      internalID: 5369327820331475956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_125
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 588
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e38383bbc4966bd0800000000000000
+      internalID: -2637256929167834143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_126
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 584
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1213763e1abbf70800000000000000
+      internalID: 9204128261522661846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_127
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 582
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233ada63bee08a10800000000000000
+      internalID: 1909788696364331821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_128
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 574
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2703c6394524b40800000000000000
+      internalID: 5422989893459538646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_129
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 576
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7e45b414b848620800000000000000
+      internalID: 2775496382920058793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_130
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 566
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360bfc1d9f8cd150800000000000000
+      internalID: 5898747516907357745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_131
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 582
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace07adc3b7c261c0800000000000000
+      internalID: -4511824301608464694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_132
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 578
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20acee4b6dbbbf940800000000000000
+      internalID: 5331061114756057602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_133
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c29c3bcb37e56b0800000000000000
+      internalID: -5305676056688513958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_134
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 550
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e969e5c6ee5a20800000000000000
+      internalID: 3053131335102751360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_135
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 542
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0148ab839f3fd0c80800000000000000
+      internalID: -8354753481978248176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_136
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 580
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e50eb1f5c036000800000000000000
+      internalID: 27879625323470484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_137
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 564
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df4a074183959350800000000000000
+      internalID: 6022882260129828816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_138
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 578
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a6786897afba10800000000000000
+      internalID: 1927443438567333995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_139
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 561
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4d1c95cd90231a0800000000000000
+      internalID: -6831386842764290903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_140
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 554
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf92bab221537dd0800000000000000
+      internalID: -2489556959402745919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 544
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a40af62ebc5e0c20800000000000000
+      internalID: 3174576759110239399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_142
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 562
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9cfa7186e001730800000000000000
+      internalID: 3967687111950191023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_143
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 554
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c1a7fd37be85620800000000000000
+      internalID: 2763217254294887459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_144
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 556
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6541ff1acfc58a0800000000000000
+      internalID: -6314894804780820743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_145
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 550
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2de335e5b530b70800000000000000
+      internalID: 8864028952276947636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_146
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 566
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13efe1b5955340f30800000000000000
+      internalID: 4540812982193421873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_147
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 562
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61b7bb6d348d2d70800000000000000
+      internalID: 9020011028028043627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_148
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 562
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a247cfaa29dfa3a0800000000000000
+      internalID: -6651859347242007895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_149
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 479
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e69e1e9c940c010800000000000000
+      internalID: 1207045831562718797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_150
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 564
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb5948dad458790800000000000000
+      internalID: -7528525794430829479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_151
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 552
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ba078307034d810800000000000000
+      internalID: 1789108210514307863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_152
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 549
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a852c29edfeb20800000000000000
+      internalID: 3165993784971928135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_153
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 526
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea770e04b43d39b30800000000000000
+      internalID: 4293007189978675118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_154
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 552
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a19d5e74a68e30800000000000000
+      internalID: 4505469339873419461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_155
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 506
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f216ba23048a80800000000000000
+      internalID: -8465637917571485442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_156
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 532
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da5739767de01860800000000000000
+      internalID: 7498754472667470546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_157
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 536
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8753a927437b1920800000000000000
+      internalID: 2962087929404675980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_158
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 511
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12ef2be6d6463880800000000000000
+      internalID: -8631633746926247394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_159
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 537
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f8bac3a47fd4d70800000000000000
+      internalID: 9029144726165229367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_160
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 527
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd12de47a4351c0800000000000000
+      internalID: -4516184135267394640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_161
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 535
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d92cc27c9fa2510800000000000000
+      internalID: 1525306057663094149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_162
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 538
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d3594fcd66a1d60800000000000000
+      internalID: 7861709198710881663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_163
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 538
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12760a417eee73b30800000000000000
+      internalID: 4267141848207746849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_164
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 535
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f595de336c7bed110800000000000000
+      internalID: 1287668605377141087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_165
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 517
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bf536a8ed3ac840800000000000000
+      internalID: 5245072785456626590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_166
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 542
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5a709b809e37eb0800000000000000
+      internalID: -4723175360508222008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_167
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 525
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f350d064391be880800000000000000
+      internalID: -8580736952271088650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_168
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 499
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c51cb2f2a6142c70800000000000000
+      internalID: 8945299648977573318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_169
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 518
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c64b2dab1078b710800000000000000
+      internalID: 1709239322758825672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_170
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 467
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3d2b0faa7d5ad30800000000000000
+      internalID: 4442193736653525949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_171
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 491
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a16450a242d1970800000000000000
+      internalID: 8727171415809595968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_172
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 528
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ecb98c4ec96ec10800000000000000
+      internalID: 2082524384137563652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_173
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 515
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29af3fd81b902960800000000000000
+      internalID: 7575225104364185902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_174
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 532
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cde986cb4ede380800000000000000
+      internalID: -8940238187400340453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_175
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 519
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c156582bbf85270800000000000000
+      internalID: 8239612262435068944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_176
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 519
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a685496bb4d0220800000000000000
+      internalID: 2453700619531741837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_177
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 513
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4dff93bdd3114a0800000000000000
+      internalID: -6624445565105089361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ccddb315dd2ac00800000000000000
+      internalID: 910533415648742400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 435
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0854d68b00ca02c0800000000000000
+      internalID: -4464544924845189107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_180
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 501
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1aa153611366c0800000000000000
+      internalID: -4151455313235927136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_181
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 515
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d58895dcba13d40800000000000000
+      internalID: 5562415913238027622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_182
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 505
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ad96e52c92f6b90800000000000000
+      internalID: -7246527360631448939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_183
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 489
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646d07f10d6b43370800000000000000
+      internalID: 8301461018147608134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_184
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 519
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a441038aed70e540800000000000000
+      internalID: 5035162829573932197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 475
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d8043c7d2fe4a80800000000000000
+      internalID: -8480574039784387181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_186
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 503
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522231cf5c95d14f0800000000000000
+      internalID: -856429647257984475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_187
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 509
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d43be0c2aa236ee0800000000000000
+      internalID: -1269123791478639408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_188
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 495
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eff60c657e53e50800000000000000
+      internalID: 6788586373112659508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_189
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 505
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b9f721d4252120800000000000000
+      internalID: 2388355658127358057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_190
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 495
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d267ff00597371a90800000000000000
+      internalID: -7343339554297907667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_191
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 505
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54fb92a773d8f4b0800000000000000
+      internalID: -5406338841875581862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_192
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 499
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56b07f977f78bb0800000000000000
+      internalID: -4933702763553266246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 552
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08ca2665874940a0800000000000000
+      internalID: -6896902716070901747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_194
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 485
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead9d13176470ea10800000000000000
+      internalID: 1936675825820474798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_195
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 705
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53c26bdcd892750800000000000000
+      internalID: 6280707070009030107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_196
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 483
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa1bd683c4853340800000000000000
+      internalID: 4842922949622831781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_197
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 481
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bd5802ac8b04e0800000000000000
+      internalID: -2014361780765214214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_198
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 483
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c73e48ccda3f30800000000000000
+      internalID: 4556196725902524986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c079ee39867630da0800000000000000
+      internalID: -5979822181361740020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_200
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 352
+        width: 152
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f0ecefaa02626f0800000000000000
+      internalID: -709843972472828030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_201
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 449
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25a9be171da8f040800000000000000
+      internalID: 4681682127462966575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_202
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 353
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791fecdeecc20f1b0800000000000000
+      internalID: -5624946667321101929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_203
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 372
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5636defe294ec8360800000000000000
+      internalID: 7173359626236027749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_204
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 322
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d325ab94237cf0800000000000000
+      internalID: -255820502920866997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_205
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8512524a44ab39c50800000000000000
+      internalID: 6670880277040275800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_206
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 304
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb4d947a6b744bd0800000000000000
+      internalID: -2646854983833793565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_207
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 177
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ab1a7f732b1b800800000000000000
+      internalID: 626477776628726318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_208
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 29
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0af675758071c4f0800000000000000
+      internalID: -810242739446285811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_209
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 134
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87fca210063bef60800000000000000
+      internalID: 8064598931678230412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_210
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 98
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f7112ff7fa21330800000000000000
+      internalID: 3680196809572056948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_211
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 97
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e2f296bcca7ac0800000000000000
+      internalID: -3856545046367901992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_212
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6c8a86f6e1b0830800000000000000
+      internalID: 4038354954713876135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_213
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 98
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2672bbf237f378b30800000000000000
+      internalID: 4289466934048270178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_214
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 97
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4df9ee08cda54920800000000000000
+      internalID: 2973974203703360843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_215
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 105
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce1d125ae073afa0800000000000000
+      internalID: -5790660544166027579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_216
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 81
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d56e00230d893170800000000000000
+      internalID: 8158707244520596951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_217
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 73
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355d1089b0b9c82d0800000000000000
+      internalID: -3275072354907990701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_218
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 103
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9422483b8ec33d0800000000000000
+      internalID: -3225447375390488067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 79
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1d8fe42f1949770800000000000000
+      internalID: 8616672456959644117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_220
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 93
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19df1975f656a010800000000000000
+      internalID: 1199741963039922460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_221
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 58
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376b7f560634df200800000000000000
+      internalID: 215402438490306163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_222
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 92
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b5ad180830a3b0800000000000000
+      internalID: -5503337137138452436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_223
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 59
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57818addd9621dec0800000000000000
+      internalID: -3544008972293367691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_224
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f56846d62a4e650800000000000000
+      internalID: 6261307972673494875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 77
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29fc3bf1873898b0800000000000000
+      internalID: -5145301542865405653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_226
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 61
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a258766b24c888ce0800000000000000
+      internalID: -1402717065769941718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_227
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 79
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89645fea3dfa95c0800000000000000
+      internalID: -4207772472259090036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_228
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 75
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9aeb87f36637520800000000000000
+      internalID: 2698613024519793117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_229
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 63
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c32417dda1cecd0800000000000000
+      internalID: -2527615752471430090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_230
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 81
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca4e2fe21ae63b0800000000000000
+      internalID: -5517295270466638747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_231
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dab71c8c19df5e0800000000000000
+      internalID: -1874181578490663572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_232
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966fe509311f6eee0800000000000000
+      internalID: -1232032381710436759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_233
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 49
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ebe079e9131490800000000000000
+      internalID: -7776843641126132358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_234
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25b2de16a052e2f0800000000000000
+      internalID: -945104297382464212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_235
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 53
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa623f548f1357160800000000000000
+      internalID: 7022574136349370031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_236
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 45
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7792f6fcd7cf13d0800000000000000
+      internalID: -3233646255578900610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_237
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 47
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e66f48326d4530800000000000000
+      internalID: 3840834051206734919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_238
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 47
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc381e80e9bc462f0800000000000000
+      internalID: -980434939245657137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_239
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 36
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2eee6754a3a5900800000000000000
+      internalID: 673915164267832014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_240
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 55
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a50e91c7db7da00800000000000000
+      internalID: 781301401079798413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_241
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda7305c856583b0800000000000000
+      internalID: -5510886915702280766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_242
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7596bb80e45a89110800000000000000
+      internalID: 1267945049677326679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_243
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 161
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99474f984202ea410800000000000000
+      internalID: 1490163868011623577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_244
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b280621c6619e1a0800000000000000
+      internalID: -6779863110608977225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_245
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97864fcee527f2720800000000000000
+      internalID: 2823601243412523129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_246
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 15
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a784c27408cf3ee0800000000000000
+      internalID: -1279083847719024727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midnight-sky-flyers_247
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 13
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68729d6a8e661920800000000000000
+      internalID: 2960675345865537647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a59c8f4140bd5349aef9c3f61b60799
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      midnight-sky-flyers_0: 547935128055976865
+      midnight-sky-flyers_1: 1700386221734347564
+      midnight-sky-flyers_10: 6151077172111843754
+      midnight-sky-flyers_100: -520017763176388086
+      midnight-sky-flyers_101: -6295031013344658381
+      midnight-sky-flyers_102: 2222166957753903040
+      midnight-sky-flyers_103: 2847426570411030929
+      midnight-sky-flyers_104: 5647116603476056452
+      midnight-sky-flyers_105: 6228137785016964048
+      midnight-sky-flyers_106: 1233566846336716032
+      midnight-sky-flyers_107: -5075380470002915897
+      midnight-sky-flyers_108: -2214571605747188497
+      midnight-sky-flyers_109: -3092380832374304456
+      midnight-sky-flyers_11: -7239855502695862521
+      midnight-sky-flyers_110: -8169937649982611731
+      midnight-sky-flyers_111: 588270771383897757
+      midnight-sky-flyers_112: 2446110920497687369
+      midnight-sky-flyers_113: -5551407671910043266
+      midnight-sky-flyers_114: 2235945937564783208
+      midnight-sky-flyers_115: -5450055782500504611
+      midnight-sky-flyers_116: -2904735991577699713
+      midnight-sky-flyers_117: 5737859034738603396
+      midnight-sky-flyers_118: 256039479341628850
+      midnight-sky-flyers_119: 1891625459427347500
+      midnight-sky-flyers_12: 6924558345268299358
+      midnight-sky-flyers_120: 7114955704905506380
+      midnight-sky-flyers_121: 880274632167476146
+      midnight-sky-flyers_122: 6701346160972265868
+      midnight-sky-flyers_123: -1247491162835414919
+      midnight-sky-flyers_124: 5369327820331475956
+      midnight-sky-flyers_125: -2637256929167834143
+      midnight-sky-flyers_126: 9204128261522661846
+      midnight-sky-flyers_127: 1909788696364331821
+      midnight-sky-flyers_128: 5422989893459538646
+      midnight-sky-flyers_129: 2775496382920058793
+      midnight-sky-flyers_13: 8845263808653369848
+      midnight-sky-flyers_130: 5898747516907357745
+      midnight-sky-flyers_131: -4511824301608464694
+      midnight-sky-flyers_132: 5331061114756057602
+      midnight-sky-flyers_133: -5305676056688513958
+      midnight-sky-flyers_134: 3053131335102751360
+      midnight-sky-flyers_135: -8354753481978248176
+      midnight-sky-flyers_136: 27879625323470484
+      midnight-sky-flyers_137: 6022882260129828816
+      midnight-sky-flyers_138: 1927443438567333995
+      midnight-sky-flyers_139: -6831386842764290903
+      midnight-sky-flyers_14: -5796658704091472810
+      midnight-sky-flyers_140: -2489556959402745919
+      midnight-sky-flyers_141: 3174576759110239399
+      midnight-sky-flyers_142: 3967687111950191023
+      midnight-sky-flyers_143: 2763217254294887459
+      midnight-sky-flyers_144: -6314894804780820743
+      midnight-sky-flyers_145: 8864028952276947636
+      midnight-sky-flyers_146: 4540812982193421873
+      midnight-sky-flyers_147: 9020011028028043627
+      midnight-sky-flyers_148: -6651859347242007895
+      midnight-sky-flyers_149: 1207045831562718797
+      midnight-sky-flyers_15: 1521282534426712844
+      midnight-sky-flyers_150: -7528525794430829479
+      midnight-sky-flyers_151: 1789108210514307863
+      midnight-sky-flyers_152: 3165993784971928135
+      midnight-sky-flyers_153: 4293007189978675118
+      midnight-sky-flyers_154: 4505469339873419461
+      midnight-sky-flyers_155: -8465637917571485442
+      midnight-sky-flyers_156: 7498754472667470546
+      midnight-sky-flyers_157: 2962087929404675980
+      midnight-sky-flyers_158: -8631633746926247394
+      midnight-sky-flyers_159: 9029144726165229367
+      midnight-sky-flyers_16: -3556802566462136578
+      midnight-sky-flyers_160: -4516184135267394640
+      midnight-sky-flyers_161: 1525306057663094149
+      midnight-sky-flyers_162: 7861709198710881663
+      midnight-sky-flyers_163: 4267141848207746849
+      midnight-sky-flyers_164: 1287668605377141087
+      midnight-sky-flyers_165: 5245072785456626590
+      midnight-sky-flyers_166: -4723175360508222008
+      midnight-sky-flyers_167: -8580736952271088650
+      midnight-sky-flyers_168: 8945299648977573318
+      midnight-sky-flyers_169: 1709239322758825672
+      midnight-sky-flyers_17: -7180768330300309120
+      midnight-sky-flyers_170: 4442193736653525949
+      midnight-sky-flyers_171: 8727171415809595968
+      midnight-sky-flyers_172: 2082524384137563652
+      midnight-sky-flyers_173: 7575225104364185902
+      midnight-sky-flyers_174: -8940238187400340453
+      midnight-sky-flyers_175: 8239612262435068944
+      midnight-sky-flyers_176: 2453700619531741837
+      midnight-sky-flyers_177: -6624445565105089361
+      midnight-sky-flyers_178: 910533415648742400
+      midnight-sky-flyers_179: -4464544924845189107
+      midnight-sky-flyers_18: 4111809062368616432
+      midnight-sky-flyers_180: -4151455313235927136
+      midnight-sky-flyers_181: 5562415913238027622
+      midnight-sky-flyers_182: -7246527360631448939
+      midnight-sky-flyers_183: 8301461018147608134
+      midnight-sky-flyers_184: 5035162829573932197
+      midnight-sky-flyers_185: -8480574039784387181
+      midnight-sky-flyers_186: -856429647257984475
+      midnight-sky-flyers_187: -1269123791478639408
+      midnight-sky-flyers_188: 6788586373112659508
+      midnight-sky-flyers_189: 2388355658127358057
+      midnight-sky-flyers_19: -4165885260341413640
+      midnight-sky-flyers_190: -7343339554297907667
+      midnight-sky-flyers_191: -5406338841875581862
+      midnight-sky-flyers_192: -4933702763553266246
+      midnight-sky-flyers_193: -6896902716070901747
+      midnight-sky-flyers_194: 1936675825820474798
+      midnight-sky-flyers_195: 6280707070009030107
+      midnight-sky-flyers_196: 4842922949622831781
+      midnight-sky-flyers_197: -2014361780765214214
+      midnight-sky-flyers_198: 4556196725902524986
+      midnight-sky-flyers_199: -5979822181361740020
+      midnight-sky-flyers_2: -6845659875804446011
+      midnight-sky-flyers_20: -3187524427736905944
+      midnight-sky-flyers_200: -709843972472828030
+      midnight-sky-flyers_201: 4681682127462966575
+      midnight-sky-flyers_202: -5624946667321101929
+      midnight-sky-flyers_203: 7173359626236027749
+      midnight-sky-flyers_204: -255820502920866997
+      midnight-sky-flyers_205: 6670880277040275800
+      midnight-sky-flyers_206: -2646854983833793565
+      midnight-sky-flyers_207: 626477776628726318
+      midnight-sky-flyers_208: -810242739446285811
+      midnight-sky-flyers_209: 8064598931678230412
+      midnight-sky-flyers_21: 138026029086464426
+      midnight-sky-flyers_210: 3680196809572056948
+      midnight-sky-flyers_211: -3856545046367901992
+      midnight-sky-flyers_212: 4038354954713876135
+      midnight-sky-flyers_213: 4289466934048270178
+      midnight-sky-flyers_214: 2973974203703360843
+      midnight-sky-flyers_215: -5790660544166027579
+      midnight-sky-flyers_216: 8158707244520596951
+      midnight-sky-flyers_217: -3275072354907990701
+      midnight-sky-flyers_218: -3225447375390488067
+      midnight-sky-flyers_219: 8616672456959644117
+      midnight-sky-flyers_22: -1516151726024838558
+      midnight-sky-flyers_220: 1199741963039922460
+      midnight-sky-flyers_221: 215402438490306163
+      midnight-sky-flyers_222: -5503337137138452436
+      midnight-sky-flyers_223: -3544008972293367691
+      midnight-sky-flyers_224: 6261307972673494875
+      midnight-sky-flyers_225: -5145301542865405653
+      midnight-sky-flyers_226: -1402717065769941718
+      midnight-sky-flyers_227: -4207772472259090036
+      midnight-sky-flyers_228: 2698613024519793117
+      midnight-sky-flyers_229: -2527615752471430090
+      midnight-sky-flyers_23: -5611881287614312332
+      midnight-sky-flyers_230: -5517295270466638747
+      midnight-sky-flyers_231: -1874181578490663572
+      midnight-sky-flyers_232: -1232032381710436759
+      midnight-sky-flyers_233: -7776843641126132358
+      midnight-sky-flyers_234: -945104297382464212
+      midnight-sky-flyers_235: 7022574136349370031
+      midnight-sky-flyers_236: -3233646255578900610
+      midnight-sky-flyers_237: 3840834051206734919
+      midnight-sky-flyers_238: -980434939245657137
+      midnight-sky-flyers_239: 673915164267832014
+      midnight-sky-flyers_24: -4364507628087186316
+      midnight-sky-flyers_240: 781301401079798413
+      midnight-sky-flyers_241: -5510886915702280766
+      midnight-sky-flyers_242: 1267945049677326679
+      midnight-sky-flyers_243: 1490163868011623577
+      midnight-sky-flyers_244: -6779863110608977225
+      midnight-sky-flyers_245: 2823601243412523129
+      midnight-sky-flyers_246: -1279083847719024727
+      midnight-sky-flyers_247: 2960675345865537647
+      midnight-sky-flyers_25: -6302642783284890746
+      midnight-sky-flyers_26: 4593845742373393651
+      midnight-sky-flyers_27: 5493331780997915259
+      midnight-sky-flyers_28: 836219614874028722
+      midnight-sky-flyers_29: -7886427853797083888
+      midnight-sky-flyers_3: 79551989066961331
+      midnight-sky-flyers_30: 7808703932070749677
+      midnight-sky-flyers_31: -1714359376318335906
+      midnight-sky-flyers_32: -2793211594098024098
+      midnight-sky-flyers_33: -6878507362981630373
+      midnight-sky-flyers_34: 7301521050445070447
+      midnight-sky-flyers_35: -6693898971423122567
+      midnight-sky-flyers_36: 6752017699809033006
+      midnight-sky-flyers_37: -6433120665987375228
+      midnight-sky-flyers_38: -1444230590338282080
+      midnight-sky-flyers_39: -4639738067699419650
+      midnight-sky-flyers_4: 5344043994156989043
+      midnight-sky-flyers_40: -7974289305176845549
+      midnight-sky-flyers_41: 5810586699716302579
+      midnight-sky-flyers_42: 8007534193451749211
+      midnight-sky-flyers_43: 3845602195696011642
+      midnight-sky-flyers_44: 7615586818720874131
+      midnight-sky-flyers_45: 8279158660044392900
+      midnight-sky-flyers_46: 8885445377457388898
+      midnight-sky-flyers_47: 9192006381945847360
+      midnight-sky-flyers_48: 6081152410315597102
+      midnight-sky-flyers_49: 5979735807096772833
+      midnight-sky-flyers_5: -3852187491900838759
+      midnight-sky-flyers_50: -9151518756695861624
+      midnight-sky-flyers_51: -3155253852743857306
+      midnight-sky-flyers_52: -2644990922027028506
+      midnight-sky-flyers_53: -206762222656084076
+      midnight-sky-flyers_54: 2345574168462339715
+      midnight-sky-flyers_55: 5881898579708832432
+      midnight-sky-flyers_56: 1985787771519554865
+      midnight-sky-flyers_57: -6135187175781888251
+      midnight-sky-flyers_58: 5439152937634665583
+      midnight-sky-flyers_59: -4788972392612513675
+      midnight-sky-flyers_6: -2499934270785316010
+      midnight-sky-flyers_60: 5016220387297592168
+      midnight-sky-flyers_61: 3502458939903610768
+      midnight-sky-flyers_62: -2205355750119760288
+      midnight-sky-flyers_63: -7012362925008477631
+      midnight-sky-flyers_64: 664340028825033119
+      midnight-sky-flyers_65: 6049476172857512038
+      midnight-sky-flyers_66: -2911158641599359424
+      midnight-sky-flyers_67: -7024413792821545570
+      midnight-sky-flyers_68: 6617237481237921526
+      midnight-sky-flyers_69: 8719658797713965350
+      midnight-sky-flyers_7: -3646436286463933259
+      midnight-sky-flyers_70: 6566574018934723310
+      midnight-sky-flyers_71: -370109401986779846
+      midnight-sky-flyers_72: 908336236695299513
+      midnight-sky-flyers_73: -8470630665943947759
+      midnight-sky-flyers_74: -7770148318155469178
+      midnight-sky-flyers_75: 461865928550618114
+      midnight-sky-flyers_76: -4235774147816598976
+      midnight-sky-flyers_77: 2731253791988904883
+      midnight-sky-flyers_78: 9034962309113461446
+      midnight-sky-flyers_79: 2574579818512710980
+      midnight-sky-flyers_8: -305548476939525637
+      midnight-sky-flyers_80: -1734784464022176698
+      midnight-sky-flyers_81: 8169796306498466248
+      midnight-sky-flyers_82: -1392968253278737625
+      midnight-sky-flyers_83: -297266088704587843
+      midnight-sky-flyers_84: -1371818045387779689
+      midnight-sky-flyers_85: 3062253511838381475
+      midnight-sky-flyers_86: 3574865253311475319
+      midnight-sky-flyers_87: 3623799155013511845
+      midnight-sky-flyers_88: -4984538660580638288
+      midnight-sky-flyers_89: -3308985955324268179
+      midnight-sky-flyers_9: -1435796646206506204
+      midnight-sky-flyers_90: -852330792830902538
+      midnight-sky-flyers_91: -8395238320163501554
+      midnight-sky-flyers_92: 1569281082039737605
+      midnight-sky-flyers_93: 7465488513827422723
+      midnight-sky-flyers_94: 8541701897740442589
+      midnight-sky-flyers_95: 6812367302476521460
+      midnight-sky-flyers_96: 5838880723909413497
+      midnight-sky-flyers_97: 175666713050386935
+      midnight-sky-flyers_98: -5312543507649606783
+      midnight-sky-flyers_99: 1312291985440140135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
