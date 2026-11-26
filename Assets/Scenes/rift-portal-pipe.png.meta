@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 93e57afe379eb1041aa66d4e49bfd334
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2454460869373444277
+    second: rift-portal-pipe_0
+  - first:
+      213: 7385589671275340788
+    second: rift-portal-pipe_1
+  - first:
+      213: 3323721808170807027
+    second: rift-portal-pipe_2
+  - first:
+      213: -5396720451018237020
+    second: rift-portal-pipe_3
+  - first:
+      213: 5944162095991766326
+    second: rift-portal-pipe_4
+  - first:
+      213: 2567554591001747221
+    second: rift-portal-pipe_5
+  - first:
+      213: -4019566997496331758
+    second: rift-portal-pipe_6
+  - first:
+      213: 2803058842748259704
+    second: rift-portal-pipe_7
+  - first:
+      213: -7030378629461168814
+    second: rift-portal-pipe_8
+  - first:
+      213: 5558518610043487369
+    second: rift-portal-pipe_9
+  - first:
+      213: 259046051819440577
+    second: rift-portal-pipe_10
+  - first:
+      213: 7481157752223059639
+    second: rift-portal-pipe_11
+  - first:
+      213: -3080285854650005286
+    second: rift-portal-pipe_12
+  - first:
+      213: 1541922681899056783
+    second: rift-portal-pipe_13
+  - first:
+      213: -1697751986010050522
+    second: rift-portal-pipe_14
+  - first:
+      213: 7288775543766310744
+    second: rift-portal-pipe_15
+  - first:
+      213: 242456987357460691
+    second: rift-portal-pipe_16
+  - first:
+      213: 5846955735719919940
+    second: rift-portal-pipe_17
+  - first:
+      213: 7583705981739917909
+    second: rift-portal-pipe_18
+  - first:
+      213: 8796504039231980602
+    second: rift-portal-pipe_19
+  - first:
+      213: -3233396539201753741
+    second: rift-portal-pipe_20
+  - first:
+      213: 3396679713179893061
+    second: rift-portal-pipe_21
+  - first:
+      213: 2566260849876503519
+    second: rift-portal-pipe_22
+  - first:
+      213: 2451583652943469341
+    second: rift-portal-pipe_23
+  - first:
+      213: 8371818270795570285
+    second: rift-portal-pipe_24
+  - first:
+      213: 8595116031540246416
+    second: rift-portal-pipe_25
+  - first:
+      213: -7121216503354415448
+    second: rift-portal-pipe_26
+  - first:
+      213: 3444356815174640259
+    second: rift-portal-pipe_27
+  - first:
+      213: 8823663782566715908
+    second: rift-portal-pipe_28
+  - first:
+      213: -3559665068419438473
+    second: rift-portal-pipe_29
+  - first:
+      213: 3144734857767216590
+    second: rift-portal-pipe_30
+  - first:
+      213: 4731052438770353899
+    second: rift-portal-pipe_31
+  - first:
+      213: 4556640012498371388
+    second: rift-portal-pipe_32
+  - first:
+      213: 3643372651463429162
+    second: rift-portal-pipe_33
+  - first:
+      213: -5876963053677172927
+    second: rift-portal-pipe_34
+  - first:
+      213: 4980604681940728714
+    second: rift-portal-pipe_35
+  - first:
+      213: 8754209037949743304
+    second: rift-portal-pipe_36
+  - first:
+      213: -2156078695643357171
+    second: rift-portal-pipe_37
+  - first:
+      213: 1274486837960803141
+    second: rift-portal-pipe_38
+  - first:
+      213: 7658326004824476688
+    second: rift-portal-pipe_39
+  - first:
+      213: -1004859614806909937
+    second: rift-portal-pipe_40
+  - first:
+      213: 823766040830592617
+    second: rift-portal-pipe_41
+  - first:
+      213: 7122828540506558241
+    second: rift-portal-pipe_42
+  - first:
+      213: -1027042218157577456
+    second: rift-portal-pipe_43
+  - first:
+      213: -4060110555052574141
+    second: rift-portal-pipe_44
+  - first:
+      213: 8155795904396236239
+    second: rift-portal-pipe_45
+  - first:
+      213: 3296561958290302663
+    second: rift-portal-pipe_46
+  - first:
+      213: 7908404925016496243
+    second: rift-portal-pipe_47
+  - first:
+      213: -7359692037163752638
+    second: rift-portal-pipe_48
+  - first:
+      213: -3506204754585032634
+    second: rift-portal-pipe_49
+  - first:
+      213: -51168555943623548
+    second: rift-portal-pipe_50
+  - first:
+      213: 7351763261893030370
+    second: rift-portal-pipe_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rift-portal-pipe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1237
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f36e5f7d000fdd0800000000000000
+      internalID: -2454460869373444277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 152
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3292deca2ee7660800000000000000
+      internalID: 7385589671275340788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1002
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6d3cef5b302e20800000000000000
+      internalID: 3323721808170807027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_3
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 964
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd8f4c75ffa15b0800000000000000
+      internalID: -5396720451018237020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_4
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d3eeacee7ed7250800000000000000
+      internalID: 5944162095991766326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 915
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f151a0c49c1a320800000000000000
+      internalID: 2567554591001747221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_6
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 935
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120953cc11a738c0800000000000000
+      internalID: -4019566997496331758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_7
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 935
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d078e8a2776e620800000000000000
+      internalID: 2803058842748259704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_8
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 929
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d287292e31f6e90800000000000000
+      internalID: -7030378629461168814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 134
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9844a0db933d32d40800000000000000
+      internalID: 5558518610043487369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_10
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 885
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c94a2bf201589300800000000000000
+      internalID: 259046051819440577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 753
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be4ae9b65962d760800000000000000
+      internalID: 7481157752223059639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_12
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 819
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80de2d550a045d0800000000000000
+      internalID: -3080285854650005286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_13
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 803
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef5bd7282066510800000000000000
+      internalID: 1541922681899056783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_14
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 757
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6203825509f5078e0800000000000000
+      internalID: -1697751986010050522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_15
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 769
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fdebd4dbee62560800000000000000
+      internalID: 7288775543766310744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_16
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 765
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8b0cc68516d5300800000000000000
+      internalID: 242456987357460691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_17
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 763
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441c40d534f842150800000000000000
+      internalID: 5846955735719919940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 740
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552ec92096cbe3960800000000000000
+      internalID: 7583705981739917909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 724
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3406bb51d5731a70800000000000000
+      internalID: 8796504039231980602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_20
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 698
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de6e69afaa023d0800000000000000
+      internalID: -3233396539201753741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 714
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dfcd7e33e632f20800000000000000
+      internalID: 3396679713179893061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 714
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb81e575a03d9320800000000000000
+      internalID: 2566260849876503519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 599
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b99d2e756c50220800000000000000
+      internalID: 2451583652943469341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_24
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 656
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c15ea8c5cae2470800000000000000
+      internalID: 8371818270795570285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_25
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 636
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b837ed7cf74770800000000000000
+      internalID: 8595116031540246416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 563
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a629ece15b5c2d90800000000000000
+      internalID: -7121216503354415448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_27
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 590
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822e204640dccf20800000000000000
+      internalID: 3444356815174640259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_28
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 580
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4026e51e573f37a70800000000000000
+      internalID: 8823663782566715908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_29
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 546
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7782e7dea77899ec0800000000000000
+      internalID: -3559665068419438473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_30
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5e00e01b754ab20800000000000000
+      internalID: 3144734857767216590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_31
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 489
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be607aa702318a140800000000000000
+      internalID: 4731052438770353899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 419
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330c4203ff6c3f30800000000000000
+      internalID: 4556640012498371388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_33
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 433
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cc9d28f1cdf8230800000000000000
+      internalID: 3643372651463429162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 146
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1472a7b7d35d07ea0800000000000000
+      internalID: -5876963053677172927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 369
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b79b1e199ae1540800000000000000
+      internalID: 4980604681940728714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 288
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0328cfcb23d7970800000000000000
+      internalID: 8754209037949743304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e36689d11412e0800000000000000
+      internalID: -2156078695643357171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 278
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543809fc603efa110800000000000000
+      internalID: 1274486837960803141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_39
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 280
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c03b30de6d74a60800000000000000
+      internalID: 7658326004824476688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_40
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 280
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5c4a11850e02f0800000000000000
+      internalID: -1004859614806909937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 248
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966ccb189da9e6b00800000000000000
+      internalID: 823766040830592617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f48e8b1de59d260800000000000000
+      internalID: 7122828540506558241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b63694b863fb1f0800000000000000
+      internalID: -1027042218157577456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_44
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 168
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34af64926f697a7c0800000000000000
+      internalID: -4060110555052574141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_45
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59f1ee9253f2170800000000000000
+      internalID: 8155795904396236239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6a5f792adbfbd20800000000000000
+      internalID: 3296561958290302663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_47
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 78
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378de87f06c40cd60800000000000000
+      internalID: 7908404925016496243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2436594e51f1dd990800000000000000
+      internalID: -7359692037163752638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_49
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 47
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6486c253a55775fc0800000000000000
+      internalID: -3506204754585032634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 15
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4848f4f28763a4ff0800000000000000
+      internalID: -51168555943623548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rift-portal-pipe_51
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b6e14cb5b60660800000000000000
+      internalID: 7351763261893030370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rift-portal-pipe_0: -2454460869373444277
+      rift-portal-pipe_1: 7385589671275340788
+      rift-portal-pipe_10: 259046051819440577
+      rift-portal-pipe_11: 7481157752223059639
+      rift-portal-pipe_12: -3080285854650005286
+      rift-portal-pipe_13: 1541922681899056783
+      rift-portal-pipe_14: -1697751986010050522
+      rift-portal-pipe_15: 7288775543766310744
+      rift-portal-pipe_16: 242456987357460691
+      rift-portal-pipe_17: 5846955735719919940
+      rift-portal-pipe_18: 7583705981739917909
+      rift-portal-pipe_19: 8796504039231980602
+      rift-portal-pipe_2: 3323721808170807027
+      rift-portal-pipe_20: -3233396539201753741
+      rift-portal-pipe_21: 3396679713179893061
+      rift-portal-pipe_22: 2566260849876503519
+      rift-portal-pipe_23: 2451583652943469341
+      rift-portal-pipe_24: 8371818270795570285
+      rift-portal-pipe_25: 8595116031540246416
+      rift-portal-pipe_26: -7121216503354415448
+      rift-portal-pipe_27: 3444356815174640259
+      rift-portal-pipe_28: 8823663782566715908
+      rift-portal-pipe_29: -3559665068419438473
+      rift-portal-pipe_3: -5396720451018237020
+      rift-portal-pipe_30: 3144734857767216590
+      rift-portal-pipe_31: 4731052438770353899
+      rift-portal-pipe_32: 4556640012498371388
+      rift-portal-pipe_33: 3643372651463429162
+      rift-portal-pipe_34: -5876963053677172927
+      rift-portal-pipe_35: 4980604681940728714
+      rift-portal-pipe_36: 8754209037949743304
+      rift-portal-pipe_37: -2156078695643357171
+      rift-portal-pipe_38: 1274486837960803141
+      rift-portal-pipe_39: 7658326004824476688
+      rift-portal-pipe_4: 5944162095991766326
+      rift-portal-pipe_40: -1004859614806909937
+      rift-portal-pipe_41: 823766040830592617
+      rift-portal-pipe_42: 7122828540506558241
+      rift-portal-pipe_43: -1027042218157577456
+      rift-portal-pipe_44: -4060110555052574141
+      rift-portal-pipe_45: 8155795904396236239
+      rift-portal-pipe_46: 3296561958290302663
+      rift-portal-pipe_47: 7908404925016496243
+      rift-portal-pipe_48: -7359692037163752638
+      rift-portal-pipe_49: -3506204754585032634
+      rift-portal-pipe_5: 2567554591001747221
+      rift-portal-pipe_50: -51168555943623548
+      rift-portal-pipe_51: 7351763261893030370
+      rift-portal-pipe_6: -4019566997496331758
+      rift-portal-pipe_7: 2803058842748259704
+      rift-portal-pipe_8: -7030378629461168814
+      rift-portal-pipe_9: 5558518610043487369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
